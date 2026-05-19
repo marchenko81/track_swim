@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "SwimCoach",
+    "slug": "swimcoach-mobile",
+    "scheme": "swimcoach",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "plugins": [
+      "expo-router",
+      "expo-secure-store",
+      "expo-notifications"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}
